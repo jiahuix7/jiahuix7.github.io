@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /Notes/
+title: Notes
+description: Some notes I've compiled/organized in the classes I took at Caltech. For self-reference and anyone else who might find them helpful!
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: true
 ---
 
