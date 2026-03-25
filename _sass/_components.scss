@@ -2,7 +2,20 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
-// Checklist
+// body
+  body {
+  font-family: "Lora", Georgia, serif;
+}
+
+h1, h2, h3, h4,
+.navbar,
+.navbar-brand,
+nav a,
+.nav-link {
+  font-family: "Marcellus SC", serif;
+}
+
+ // Checklist
 
 ul.task-list {
   list-style-type: none; /* Remove bullets from all levels */
