@@ -15,13 +15,13 @@ const CONFIG = {
   cursorThrottle: 180,  
   light: {
     strokeColor: "30, 20, 10",  
-    maxOpacity: 0.12,  
-    decayRate: 0.002,
+    maxOpacity: 0.2,  
+    decayRate: 0.0015,
   },
   dark: {
   strokeColor: "235, 225, 210",  
-  maxOpacity: 0.18,            
-  decayRate: 0.0015,
+  maxOpacity: 0.25,            
+  decayRate: 0.002,
     },
 };
 
