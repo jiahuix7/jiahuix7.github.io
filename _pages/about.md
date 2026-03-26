@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a sophomore Physics student at Caltech. I think about problem in high energy astrophysics, and cosmology, and I like approaching these questions with simulation based tools. 
+I am a sophomore Physics student at Caltech. I think about problems in high energy astrophysics, and cosmology, and I like approaching these questions with simulation based tools. 
 
 I am currently working on understanding how cosmic ray feedback shapes diffuse gamma-ray emission in galaxies with [Isabel Sands](https://www.pma.caltech.edu/people/isabel-sands) and [Prof. Phil Hopkins](http://www.tapir.caltech.edu/~phopkins/Site/). Specifically, I ask whether Fermi bubble–like structures, which we see in Milky Way–mass galaxies (see Isabel's recent paper [here](https://arxiv.org/abs/2510.14908)), still form in smaller, LMC-mass systems, and what that tells us about how cosmic rays and galactic feedback behave across different mass scales.
 
