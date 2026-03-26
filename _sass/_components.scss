@@ -16,12 +16,49 @@ nav a,
   font-family: "Marcellus SC", serif;
 }
 
+.social {
+  text-align: left !important;
+  justify-content: flex-start !important;
+}
+
+h1.post-title {
+  font-size: 1.4rem !important;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+}
+
+.blog-intro {
+  color: var(--global-text-color-light);
+  font-size: 0.95em;
+  margin-bottom: 0.1rem !important;
+}
+
 .post-description {
   margin-bottom: 0.5rem;
 }
 
 .burgundy {
   color: v.$burgundy-color;
+}
+
+.post article .clearfix p:last-of-type {
+  margin-bottom: 0.5rem !important;
+}
+
+.navbar-brand {
+  font-size: 0.85rem !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.social a i, .social a svg {
+  font-size: 2rem !important;
+  width: 2rem !important;
+  height: 2rem !important;
+}
+
+.social a .ai {
+  font-size: 2rem !important;
 }
 
  // Checklist
