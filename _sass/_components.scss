@@ -2,6 +2,7 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
+@use "variables" as v;
 // body
   body {
   font-family: "Lora", Georgia, serif;
@@ -13,6 +14,14 @@ h1, h2, h3, h4,
 nav a,
 .nav-link {
   font-family: "Marcellus SC", serif;
+}
+
+.post-description {
+  margin-bottom: 0.5rem;
+}
+
+.burgundy {
+  color: v.$burgundy-color;
 }
 
  // Checklist
